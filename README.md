@@ -7,4 +7,4 @@
 
 ## Information Files
 
-[QUESTIONS PDF](OS_EX4.pdf) | [SOLUTION PDF](EX4_QUESTIONS.pdf)
+[Questions PDF](EX4_QUESTIONS.pdf) | [Solution PDF](OS_EX4_SOLUTION.pdf)
