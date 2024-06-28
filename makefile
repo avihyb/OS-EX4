@@ -7,7 +7,7 @@ VERTICES= -v 5
 EDGES= -e 6
 SEED= -s 0
 
-all: program valgrind
+all: program valgrind gcov gprof
 
 program: $(src)
 	$(CC) $(flags) -o program $(src)
